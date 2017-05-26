@@ -24,4 +24,4 @@ PlayerPreview.propTypes = {
   onReset: PropTypes.func.isRequired,
 }
 
-moduel.exports = PlayerPreview;
+module.exports = PlayerPreview;
